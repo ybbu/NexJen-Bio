@@ -2,7 +2,6 @@
 
 **Here's the demo link: view it on [Google Drive](https://drive.google.com/file/d/1wbImQrsRcP_61wE6Am3QTOSZ_DU1IDuy/view?usp=sharing)**
 
-
 A comprehensive web-based platform for exploring, analyzing, and tracking clinical trials with AI-powered insights. Built specifically for clinical research professionals, pharmaceutical companies, and researchers working on clinical trial discovery and analysis.
 
 ## 🚀 Features
@@ -52,6 +51,10 @@ A comprehensive web-based platform for exploring, analyzing, and tracking clinic
 
 ## 🚀 Quick Start
 
+## ❗❗ IMPORTANT
+
+The demo data folder is too large to upload. You need to download it from [Google Drive](https://drive.google.com/drive/folders/1Fy87-rKUQdfMp_cXM-Dwv1oiJ0JSZQxy?usp=sharing) and place the `data` folder inside `clinical trial dashbaord` before proceeding :)
+
 ### **Prerequisites**
 - Python 3.8+ 
 - Node.js 16+
@@ -81,7 +84,6 @@ A comprehensive web-based platform for exploring, analyzing, and tracking clinic
    ```
    
    🌐 API available at `http://localhost:8000`
-   📚 API docs at `http://localhost:8000/docs`
 
 ### **Frontend Setup**
 
@@ -255,21 +257,6 @@ clinical-trial-platform/
 - **API Optimization**: Use request caching and debouncing
 - **Memory Usage**: Monitor data processing for large trial sets
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙋‍♀️ Support
 
-For questions, issues, or contributions:
-
-1. 📖 Check the [API Documentation](http://localhost:8000/docs)
-2. 🐛 [Open an Issue](https://github.com/your-repo/clinical-trial-platform/issues)
-3. 💬 [Start a Discussion](https://github.com/your-repo/clinical-trial-platform/discussions)
-4. 📧 Contact the development team
-
----
-
-**🏥 Built for the clinical research community with ❤️**
-
-*Empowering researchers, clinicians, and pharmaceutical companies with AI-driven insights for better clinical trial outcomes.*
+For questions, issues, or contributions: [Open an Issue](https://github.com/your-repo/clinical-trial-platform/issues)
